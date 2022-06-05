@@ -1,0 +1,26 @@
+C:\Users\tgtuf\OneDrive\Masaüstü\Tufan Güngör\Siliconmade Academy Platinummade\Başlangıç Öncesi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\bin\Debug\netcoreapp3.1\Konut Yönetim Sistemi.exe
+C:\Users\tgtuf\OneDrive\Masaüstü\Tufan Güngör\Siliconmade Academy Platinummade\Başlangıç Öncesi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\bin\Debug\netcoreapp3.1\Konut Yönetim Sistemi.deps.json
+C:\Users\tgtuf\OneDrive\Masaüstü\Tufan Güngör\Siliconmade Academy Platinummade\Başlangıç Öncesi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\bin\Debug\netcoreapp3.1\Konut Yönetim Sistemi.runtimeconfig.json
+C:\Users\tgtuf\OneDrive\Masaüstü\Tufan Güngör\Siliconmade Academy Platinummade\Başlangıç Öncesi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\bin\Debug\netcoreapp3.1\Konut Yönetim Sistemi.runtimeconfig.dev.json
+C:\Users\tgtuf\OneDrive\Masaüstü\Tufan Güngör\Siliconmade Academy Platinummade\Başlangıç Öncesi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\bin\Debug\netcoreapp3.1\Konut Yönetim Sistemi.dll
+C:\Users\tgtuf\OneDrive\Masaüstü\Tufan Güngör\Siliconmade Academy Platinummade\Başlangıç Öncesi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\bin\Debug\netcoreapp3.1\Konut Yönetim Sistemi.pdb
+C:\Users\tgtuf\OneDrive\Masaüstü\Tufan Güngör\Siliconmade Academy Platinummade\Başlangıç Öncesi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\obj\Debug\netcoreapp3.1\Konut Yönetim Sistemi.csprojAssemblyReference.cache
+C:\Users\tgtuf\OneDrive\Masaüstü\Tufan Güngör\Siliconmade Academy Platinummade\Başlangıç Öncesi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\obj\Debug\netcoreapp3.1\Konut Yönetim Sistemi.AssemblyInfoInputs.cache
+C:\Users\tgtuf\OneDrive\Masaüstü\Tufan Güngör\Siliconmade Academy Platinummade\Başlangıç Öncesi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\obj\Debug\netcoreapp3.1\Konut Yönetim Sistemi.AssemblyInfo.cs
+C:\Users\tgtuf\OneDrive\Masaüstü\Tufan Güngör\Siliconmade Academy Platinummade\Başlangıç Öncesi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\obj\Debug\netcoreapp3.1\Konut Yönetim Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\tgtuf\OneDrive\Masaüstü\Tufan Güngör\Siliconmade Academy Platinummade\Başlangıç Öncesi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\obj\Debug\netcoreapp3.1\Konut Yönetim Sistemi.dll
+C:\Users\tgtuf\OneDrive\Masaüstü\Tufan Güngör\Siliconmade Academy Platinummade\Başlangıç Öncesi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\obj\Debug\netcoreapp3.1\Konut Yönetim Sistemi.pdb
+C:\Users\tgtuf\OneDrive\Masaüstü\Tufan Güngör\Siliconmade Academy Platinummade\Başlangıç Öncesi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\Konut Yönetim Sistemi\obj\Debug\netcoreapp3.1\Konut Yönetim Sistemi.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\Konut Yönetim Sistemi\Konut Yönetim Sistemi\bin\Debug\netcoreapp3.1\Konut Yönetim Sistemi.exe
+C:\Users\Furkan\Desktop\Konut Yönetim Sistemi\Konut Yönetim Sistemi\bin\Debug\netcoreapp3.1\Konut Yönetim Sistemi.deps.json
+C:\Users\Furkan\Desktop\Konut Yönetim Sistemi\Konut Yönetim Sistemi\bin\Debug\netcoreapp3.1\Konut Yönetim Sistemi.runtimeconfig.json
+C:\Users\Furkan\Desktop\Konut Yönetim Sistemi\Konut Yönetim Sistemi\bin\Debug\netcoreapp3.1\Konut Yönetim Sistemi.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\Konut Yönetim Sistemi\Konut Yönetim Sistemi\bin\Debug\netcoreapp3.1\Konut Yönetim Sistemi.dll
+C:\Users\Furkan\Desktop\Konut Yönetim Sistemi\Konut Yönetim Sistemi\bin\Debug\netcoreapp3.1\Konut Yönetim Sistemi.pdb
+C:\Users\Furkan\Desktop\Konut Yönetim Sistemi\Konut Yönetim Sistemi\obj\Debug\netcoreapp3.1\Konut Yönetim Sistemi.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Konut Yönetim Sistemi\Konut Yönetim Sistemi\obj\Debug\netcoreapp3.1\Konut Yönetim Sistemi.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Konut Yönetim Sistemi\Konut Yönetim Sistemi\obj\Debug\netcoreapp3.1\Konut Yönetim Sistemi.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Konut Yönetim Sistemi\Konut Yönetim Sistemi\obj\Debug\netcoreapp3.1\Konut Yönetim Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Konut Yönetim Sistemi\Konut Yönetim Sistemi\obj\Debug\netcoreapp3.1\Konut Yönetim Sistemi.dll
+C:\Users\Furkan\Desktop\Konut Yönetim Sistemi\Konut Yönetim Sistemi\obj\Debug\netcoreapp3.1\Konut Yönetim Sistemi.pdb
+C:\Users\Furkan\Desktop\Konut Yönetim Sistemi\Konut Yönetim Sistemi\obj\Debug\netcoreapp3.1\Konut Yönetim Sistemi.genruntimeconfig.cache
